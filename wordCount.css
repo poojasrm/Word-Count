@@ -1,0 +1,59 @@
+body{
+	background-image: url(bg.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+h2{
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 50px;	
+	color: #003049;
+}
+
+#sentence{
+	margin-top: 10px;
+	height: 300px;
+	width: 700px;
+	margin-left:  250px;
+}
+
+#btn-1{
+	background-color:#FFA4B6; 
+	color:black;
+	font-size: 20px;
+	font-family: "Poppins" , serif;
+	font-weight: normal;
+	font-size: 20px;
+	font-style: normal;
+	width: 100px;
+	margin-left: 850px;
+	margin-top: 2px;
+	
+}
+#btn-1:hover{
+	background-color: pink;
+	color: black;
+}
+
+#tw{
+	font-size: 20px;
+	font-weight: normal;
+	font-family:  "Josefin Sans", serif;
+}
+#tl{
+	font-size: 20px;
+	font-weight: normal;
+	font-family:  "Josefin Sans", serif;
+}
+#tc{
+	font-size: 20px;
+	font-weight: normal;
+	font-family:  "Josefin Sans", serif;
+}
+#tv{
+	font-size: 20px;
+	font-weight: normal;
+	font-family:  "Josefin Sans", serif;
+}
